@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @pedroBaumgratz
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 📫 How to reach me ...
+-@pedroBaumgratz-
 
-<!---
-pedroBaumgratz/pedroBaumgratz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-Estudando Desenvolvimento web
+
